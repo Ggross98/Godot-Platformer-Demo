@@ -1,0 +1,34 @@
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.deps.json
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.runtimeconfig.json
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.dll
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.pdb
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.AssemblyReference.cache
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.AssemblyInfoInputs.cache
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.AssemblyInfo.cs
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.CoreCompileInputs.cache
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.CopyComplete
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.dll
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\refint\Brackeys Platformer.dll
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.pdb
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.genruntimeconfig.cache
+D:\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\ref\Brackeys Platformer.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.deps.json
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.runtimeconfig.json
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\Brackeys Platformer.pdb
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.AssemblyReference.cache
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.AssemblyInfoInputs.cache
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.AssemblyInfo.cs
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.CoreCompileInputs.cache
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.csproj.CopyComplete
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\refint\Brackeys Platformer.dll
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.pdb
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\Brackeys Platformer.genruntimeconfig.cache
+D:\GLH\BaiduSyncdisk\Godot\My Projects\BrackeysPlatformer\.godot\mono\temp\obj\Debug\ref\Brackeys Platformer.dll

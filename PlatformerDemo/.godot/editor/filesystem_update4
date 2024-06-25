@@ -1,0 +1,13 @@
+res://scenes/game.tscn
+res://scenes/killzone.tscn
+res://scenes/coin.tscn
+res://scenes/slime.tscn
+res://scenes/platform.tscn
+res://scenes/player.tscn
+res://scripts/Player.cs
+res://scripts/SFXManager.cs
+res://scripts/GameManager.cs
+res://scripts/Coin.cs
+res://scripts/Killzone.cs
+res://scripts/Slime.cs
+res://scripts/CoinLabel.cs
